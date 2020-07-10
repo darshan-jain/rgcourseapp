@@ -12,4 +12,4 @@ Netlify - for deploying production level project
 SnipCart - for payments
 Web Hooks for direct updation of content and deployment on the site
 GitHub / VS code / Netlify accounts synced for updation & constant deployment
-Page deployed on : 
+Page deployed on :  https://ecommlco.netlify.app/
