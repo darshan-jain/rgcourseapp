@@ -1,5 +1,3 @@
-check this project out 🔥
-i built the project by watching hitesh Choudary's free course
 Tools & Softwares used
 HTML , CSS & JS - basic web designing
 ReactJS for reusable content & web designing 
